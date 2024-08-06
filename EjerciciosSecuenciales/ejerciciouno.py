@@ -1,3 +1,5 @@
+# Se declara la variable nombre del estudiante, Se declara la variable nombre del colegio, Se declara la variable grado y finalmente se muestra el resultado mediante print concatenando las variables nomestud, nombcole,gradocur
+
 # Se declara la variable nombre del estudiante
 nomestud= (input (" Ingrese nombre del estudiante "))
 # Se declara la variable nombre del colegio
